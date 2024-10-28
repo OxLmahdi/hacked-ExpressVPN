@@ -1,4 +1,7 @@
 # hacked-ExpressVPN
+only for education purpose
+
+
 https://github.com/OxLmahdi/hacked-ExpressVPN.git
 cd hacked-ExpressVPN
 python hacked-ExpressVPN\ .py 
